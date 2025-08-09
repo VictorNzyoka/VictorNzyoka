@@ -2,7 +2,7 @@
 
 ### A passionate software developer from Kenya
 
-- 👨‍💻 All of my projects are available at [victornzyoka.vercel.app](https://victornzyoka.vercel.app)
+- 👨‍💻 All of my projects are available at [victornzyoka](https://victormutungaportfolio.vercel.app)
 - 💬 Ask me about **web development, mobile apps, or anything tech-related**
 - 📫 How to reach me **nzyoka18@gmail.com**
 - 📄 Know about my experiences [here](https://1drv.ms/w/c/51fc9192f83b36f9/ES-cyrEroi5HiJj4HXlnRAIBu2OZ4NxSOKQIo_RcBp0UJQ?e=KfiJvG)

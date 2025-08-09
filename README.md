@@ -2,18 +2,15 @@
 
 ### A passionate software developer from Kenya
 
-- 🌱 I’m currently learning **new technologies and best practices**
 - 👨‍💻 All of my projects are available at [victornzyoka.vercel.app](https://victornzyoka.vercel.app)
 - 💬 Ask me about **web development, mobile apps, or anything tech-related**
 - 📫 How to reach me **nzyoka18@gmail.com**
-- 📄 Know about my experiences [here](https://1drv.ms/w/c/51fc9192f83b36f9/ES-cyrEroi5HiJj4HXlnRAIBWKTByXaILR-9bDmCSt6GVg?e=bN12z5)
+- 📄 Know about my experiences [here](https://1drv.ms/w/c/51fc9192f83b36f9/ES-cyrEroi5HiJj4HXlnRAIBu2OZ4NxSOKQIo_RcBp0UJQ?e=KfiJvG)
 - ⚡ Fun fact **I'm probably listening to music while coding**
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Mutunga-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-mutunga-3b7692261)
-[![Twitter](https://img.shields.io/badge/Twitter-Your_Handle-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-victornzyoka-black?style=flat&logo=github)](https://github.com/victornzyoka)
 
 ## 🛠️ Technologies
 
@@ -31,10 +28,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -113,9 +107,6 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
@@ -131,9 +122,6 @@
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
 </p>
 
